@@ -66,6 +66,8 @@ Route::resource('/dashboard/posts', DashboardPostController::class)->middleware(
 
 Route::resource('/dashboard/categories', AdminCategoryController::class)->except('show')->middleware('admin');
 
-Route::get('/foo', function () {
-    Artisan::call('storage:link');
-});
+Route::get('/bukadulu', function () {        
+    $target = '/web/coba-laravel/storage/app/';
+    $shortcut = '/web/coba-laravel/public/storage';
+    symlink($target, $shortcut);
+ });
