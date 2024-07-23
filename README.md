@@ -17,8 +17,6 @@
   </p>
 </div>
 
-
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -34,8 +32,6 @@
     <li><a href="#credits">Credits</a></li>
   </ol>
 </details>
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -69,12 +65,10 @@ Project Link: [https://github.com/BangNopall/coba-laravel/](https://github.com/B
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- ACKNOWLEDGMENTS -->
 ## Credits
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+These are the credits that helped me in shooting this project
 
 * [Choose an Open Source License](https://choosealicense.com)
 * [Img Shields](https://shields.io)
