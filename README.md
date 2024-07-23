@@ -41,7 +41,7 @@ Joining an industry class called TEFA or Teaching Factory held by the school. Th
 
 ### Built With
 
-This section list any major frameworks/libraries used to bootstrap your project.
+This section lists the main frameworks/libraries used.
 
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
