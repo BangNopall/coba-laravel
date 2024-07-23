@@ -42,7 +42,7 @@ Joining an industry class called TEFA or Teaching Factory held by the school. Th
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This section list any major frameworks/libraries used to bootstrap your project.
 
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
@@ -52,7 +52,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See [`LICENSE`](https://github.com/BangNopall/coba-laravel/blob/master/LICENSE) for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
